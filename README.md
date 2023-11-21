@@ -1,3 +1,3 @@
 # AluraPlus
 
-##Projeto realizado, alura+, utilizando HTML e CSS
+Projeto realizado, alura+, utilizando HTML e CSS
